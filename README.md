@@ -1,6 +1,6 @@
 # PasswordGenerator
 
-Often it is diffcult to create passwords that met all the necessary criteria. This password generator will help employees create more secure passwords with ease. Simply input the desired parameters to get a 8 - 128 password. 
+Often it is difficult to create passwords that meet all the necessary criteria. This password generator will help employees create more secure passwords with ease. Simply input the desired parameters to get an 8 - 128 password.
 
 
 ![Password Generator](./Develop/03-javascript-homework-demo.png)   
